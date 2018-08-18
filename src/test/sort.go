@@ -2,10 +2,10 @@ package main
 
 import "fmt"
 
-func main() {
+/* func main() {
 	arr := []int64{5, 2, 124, 1, 4, 13, 52}
 	sort(arr)
-}
+} */
 
 func sort(ar []int64) {
 	fmt.Println("hello world", ar)
