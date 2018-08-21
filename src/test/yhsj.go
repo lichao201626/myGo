@@ -1,5 +1,6 @@
 package main
 
+/*
 import (
 	"fmt"
 	"os"
@@ -84,3 +85,4 @@ func main() {
 	yh := gyhsj(x)
 	pyhsj(yh)
 }
+*/
